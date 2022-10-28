@@ -4,6 +4,7 @@ from food import Food
 from scoreboard import Scoreboard, get_best
 import time
 import tkinter
+from tkinter import messagebox
 import random
 
 
@@ -19,6 +20,8 @@ snake = Snake()
 food = Food()
 score_board = Scoreboard()
 game_is_on = True
+
+messagebox.showinfo("Welcome", "Use the 'Left' and 'Right' keys to control the snake.")
 
 # Event listener
 screen.listen()
@@ -102,5 +105,5 @@ plot(0.50, 'score')
 # Dates
 plot(0.80, 'date')
     
-canvas.pack(side="left")
+canvas.pack(side="top")
 root.mainloop()
