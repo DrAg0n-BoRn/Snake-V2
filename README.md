@@ -29,4 +29,4 @@ In the future I plan to further improve the design. I have been reading about ho
 
 A special thanks to the instructors David J. Malan and Doug Lloyd, whom I learned so much from.
 
-### Video Demo: [Link](https://)
+### Video Demo: [Link](https://youtu.be/e0_a8mjqIQY)
