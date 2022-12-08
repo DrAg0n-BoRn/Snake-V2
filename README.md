@@ -57,5 +57,3 @@ In the future I plan to further improve the design. I have been reading about ho
 This seems quite challenging, but I just need to read more documentation and find solutions to the problems. I am confident it will be implemented. Afterwards, I will move on to new projects and practice with some different python libraries.
 
 A special thanks to the instructors David J. Malan and Doug Lloyd, whom I learned so much from and made all of this possible.
-
-### Video Demo: [Link](https://youtu.be/e0_a8mjqIQY)
